@@ -1,3 +1,4 @@
+||s-youtube.com^
 ||r1---sn-32o-guh6.googlevideo.com^
 r1---sn-o097znl7.googlevideo.com
 r12---sn-p5qlsns7.googlevideo.com
