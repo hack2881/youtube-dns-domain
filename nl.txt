@@ -190,3 +190,13 @@ r4---sn-nx5e6nes.googlevideo.com
 r5---sn-h0jeen7r.googlevideo.com
 r6---sn-x1x7snes.googlevideo.com
 r8---sn-ja5gv2x-592e.googlevideo.com
+========================================
+||stats.g.doubleclick.net^
+||ad.doubleclick.net^
+||static.doubleclick.net^
+||m.doubleclick.net^
+||mediavisor.doubleclick.net^
+||pagead2.googlesyndication.com^
+||adservice.google.com^
+||pagead2.googleadservices.com^
+||afs.googlesyndication.com^
