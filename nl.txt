@@ -1,9 +1,9 @@
-||ads.pubmatic.com^
-||adnxs.com^
-||gvt2.com^
-/ads.youtube.com/
-/s-youtube.com/
-/s.youtube.com/
+/ads.pubmatic.com.*/
+/adnxs.com.*/
+/gvt2.com.*/
+/ads.youtube.com.*/
+/s-youtube.com.*/
+/s.youtube.com.*/
 ||r1---sn-32o-guh6.googlevideo.com^
 ||r1---sn-o097znl7.googlevideo.com^
 ||r12---sn-p5qlsns7.googlevideo.com^
