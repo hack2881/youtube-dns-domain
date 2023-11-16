@@ -1,6 +1,5 @@
 /ads.pubmatic.com.*/
 /adnxs.com.*/
-/gvt2.com.*/
 /ads.youtube.com.*/
 /s-youtube.com.*/
 /s.youtube.com.*/
@@ -227,3 +226,9 @@
 /rr3---sn-32o-1the.googlevideo.com.*/
 /rr4---sn-32o-1the.googlevideo.com.*/
 /rr5---sn-32o-1the.googlevideo.com.*/
+======================================
+/beacons.gvt2.com.*/
+/beacons3.gvt2.com.*/
+/beacons4.gvt2.com.*/
+/beacons5.gvt2.com.*/
+/beacons6.gvt2.com.*/
