@@ -257,3 +257,9 @@
 /beacons4.gvt5.com.*/
 /beacons5.gvt5.com.*/
 /beacons6.gvt5.com.*/
+======================
+/gvt1.com.*/
+/gvt2.com.*/
+/gvt3.com.*/
+/gvt4.com.*/
+/gvt5.com.*/
