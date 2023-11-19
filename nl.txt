@@ -206,6 +206,7 @@
 /adservice.google.com.*/
 /pagead2.googleadservices.com.*/
 /afs.googlesyndication.com.*/
+/redirector.googlevideo.com.*/
 ===============================
 /rr1---sn-5hnednss.gvt1.com.*/
 ||rr1---sn-5hnednss.gvt1.com^
