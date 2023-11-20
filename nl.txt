@@ -270,6 +270,7 @@
 /nl.jobs.jumbo.com.*/
 /m.youtube.com.*/
 /laaddirect.nl.*/
+/yt3.googleusercontent.com.*/
 /www.googleadservices.com.*/
 /www.kevintimmerdaytrading.nl.*/
 /pageservice-dre.dt.dbankcloud.com.*/
