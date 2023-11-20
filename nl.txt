@@ -269,7 +269,6 @@
 /ziggo.nl.*/
 /nl.jobs.jumbo.com.*/
 /m.youtube.com.*/
-/yt3.googleusercontent.com.*/
 /laaddirect.nl.*/
 /www.googleadservices.com.*/
 /www.kevintimmerdaytrading.nl.*/
