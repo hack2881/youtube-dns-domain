@@ -16973,3 +16973,8 @@ rr3---sn-5hne6nzs.gvt1.com
 rr4---sn-5hne6nzs.gvt1.com
 rr5---sn-5hne6nzs.gvt1.com
 rr6---sn-5hne6nzs.gvt1.com
+m.youtube.com
+youtubei.googleapis.com
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+www.googleadservices.com
