@@ -17060,3 +17060,6 @@ rr2---sn-q4fl6nd6.googlevideo.com
 rr3---sn-q4fl6nd6.googlevideo.com
 rr4---sn-q4fl6nd6.googlevideo.com
 rr5---sn-q4fl6nd6.googlevideo.com
+==================================
+ad.doubleclick.net
+adservice.google.nl
