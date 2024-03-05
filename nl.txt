@@ -17064,6 +17064,7 @@ rr5---sn-q4fl6nd6.googlevideo.com
 ad.doubleclick.net
 adservice.google.nl
 events.ads.vungle.com
+static.doubleclick.net
 ==========================
 r1---sn-5hne6nzy.gvt1.com
 r2---sn-5hne6nzy.gvt1.com
