@@ -17063,3 +17063,10 @@ rr5---sn-q4fl6nd6.googlevideo.com
 ==================================
 ad.doubleclick.net
 adservice.google.nl
+events.ads.vungle.com
+==========================
+r1---sn-5hne6nzy.gvt1.com
+r2---sn-5hne6nzy.gvt1.com
+r3---sn-5hne6nzy.gvt1.com
+r4---sn-5hne6nzy.gvt1.com
+r5---sn-5hne6nzy.gvt1.com
