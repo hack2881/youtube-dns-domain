@@ -17077,3 +17077,4 @@ ad.doubleclick.net
 adservice.google.nl
 events.ads.vungle.com
 static.doubleclick.net
+stats.g.doubleclick.net
