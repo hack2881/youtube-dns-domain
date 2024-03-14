@@ -17156,3 +17156,6 @@ tpc.googlesyndication.com
 swa.bol.com
 m.bol.com
 pro-web-proxy-vip.bol.com
+google.play.com
+s.google.play.com
+m.google.play.com
