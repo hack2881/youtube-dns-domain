@@ -17141,7 +17141,9 @@ rr5---sn-32o-5hn6.googlevideo.com
 plus500.com
 s.plus500.com
 m.plus500.com
+m.adnxs.com
 dcdn.adnxs.com
+acdn.adnxs.com
 cdn.adnxs.com
 www.xandr.com
 myprivacy.dpgmedia.nl
