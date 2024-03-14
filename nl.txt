@@ -17138,7 +17138,7 @@ rr2---sn-32o-5hn6.googlevideo.com
 rr3---sn-32o-5hn6.googlevideo.com
 rr4---sn-32o-5hn6.googlevideo.com
 rr5---sn-32o-5hn6.googlevideo.com
-www.plus500.com
+plus500.com
 s.plus500.com
 m.plus500.com
 dcdn.adnxs.com
@@ -17151,3 +17151,6 @@ mb.moatads.com
 ad.yieldlab.net
 video-ad-stats.googlesyndication.com
 tpc.googlesyndication.com
+swa.bol.com
+m.bol.com
+pro-web-proxy-vip.bol.com
