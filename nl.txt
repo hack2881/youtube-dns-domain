@@ -17095,3 +17095,5 @@ cm.g.doubleclick.net
 advertiseonbing-blob.azureedge.net
 mb.moatads.com
 ad.yieldlab.net
+video-ad-stats.googlesyndication.com
+tpc.googlesyndication.com
