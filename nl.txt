@@ -17159,3 +17159,4 @@ pro-web-proxy-vip.bol.com
 google.play.com
 s.google.play.com
 m.google.play.com
+ads.youtube.com
