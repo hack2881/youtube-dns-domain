@@ -17088,4 +17088,10 @@ www.plus500.com
 s.plus500.com
 m.plus500.com
 dcdn.adnxs.com
+cdn.adnxs.com
+www.xandr.com
 myprivacy.dpgmedia.nl
+cm.g.doubleclick.net
+advertiseonbing-blob.azureedge.net
+mb.moatads.com
+ad.yieldlab.net
