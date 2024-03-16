@@ -17162,3 +17162,5 @@ m.google.play.com
 ads.youtube.com
 https://www.plus500.com/nl/?id=125237&tags=g_sr%2b20862103804_cpi%2bNetherlands-YT-VAC-MobWeb-Affinity_cp%2b157736911898_agi%2bAffinity-PerformanceAds_agn%2bTrade-On-Go-17sec-NL_adn%2byoutube.com_pl%2bm_de%2b_ext%2bUURL&gclid=CjwKCAjw48-vBhBbEiwAzqrZVNm29fVZBn3AHUWcw2Txy2_ZNroiYceXr3V7hCHKbK1-6-3fDPKD4hoC3vYQAvD_BwE
 https://play.google.com/store/apps/details?id=com.Plus500
+https://www.newyorkpizza.nl/bestellen/pizza?store=260&banner=740&coupon-code=740&gclid=CjwKCAjw48-vBhBbEiwAzqrZVJbYP-4eANwgT3LAjTJIR3Ji4kY0gfiihEjSToISK1_CXpbJgtlp3RoCDG8QAvD_BwE
+https://fairplaycasino.nl/?gclid=CjwKCAjw48-vBhBbEiwAzqrZVPs4yt0d7Xs2SITbMHw1BfV_8nHqziAZm5_y0oXvFXYHfyL_qzce9RoC9f0QAvD_BwE&gclsrc=aw.ds
