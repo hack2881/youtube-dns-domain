@@ -17138,7 +17138,8 @@ rr2---sn-32o-5hn6.googlevideo.com
 rr3---sn-32o-5hn6.googlevideo.com
 rr4---sn-32o-5hn6.googlevideo.com
 rr5---sn-32o-5hn6.googlevideo.com
-plus500.com
+ads.viaplay.com
+ads.plus500.com
 s.plus500.com
 m.plus500.com
 m.adnxs.com
