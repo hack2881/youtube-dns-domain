@@ -725,6 +725,7 @@ rr2---sn-32o-5hn6.googlevideo.com
 rr3---sn-32o-5hn6.googlevideo.com
 rr4---sn-32o-5hn6.googlevideo.com
 rr5---sn-32o-5hn6.googlevideo.com
+||lokalise.com^
 ||m.please.nl^
 ||s.redditmedia.com^
 ||ads.medipro.nl^
