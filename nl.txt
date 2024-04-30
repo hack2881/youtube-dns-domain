@@ -933,6 +933,12 @@ r3---sn-32o-guh6.googlevideo.com
 r4---sn-32o-guh6.googlevideo.com
 r5---sn-32o-guh6.googlevideo.com
 ==================================
+rr1---sn-32o-1the.googlevideo.com
+rr2---sn-32o-1the.googlevideo.com
+rr3---sn-32o-1the.googlevideo.com
+rr4---sn-32o-1the.googlevideo.com
+rr5---sn-32o-1the.googlevideo.com
+==================================
 ||ads.pubmatic.com^
 ||lokalise.com^
 ||m.please.nl^
