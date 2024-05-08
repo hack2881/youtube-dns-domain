@@ -1,8 +1,8 @@
-||r1---sn-.googlevideo.com^
-||r2---sn-.googlevideo.com^
-||r3---sn-.googlevideo.com^
-||r4---sn-.googlevideo.com^
-||r5---sn-.googlevideo.com^
+||r1---sn-5.googlevideo.com^
+||r2---sn-5.googlevideo.com^
+||r3---sn-5.googlevideo.com^
+||r4---sn-5.googlevideo.com^
+||r5---sn-5.googlevideo.com^
 
 !----rr1---sn-32o-1the.gvt1
 
