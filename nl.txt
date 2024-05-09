@@ -1,3 +1,15 @@
+||rr1---sn-qpbpjxa-j0ge.googlevideo.com^
+||r1---sn-gwpa-jj0z.googlevideo.com^
+||r1---sn-xguxaxjvh-8vbe.googlevideo.com^
+||r16---sn-c0q7lne7.googlevideo.com^
+||r2---sn-5go7yner.googlevideo.com^
+||r2---sn-uigxxi0ujipnvo-02be.googlevideo.com^
+||r3---sn-gxuo03g-3c2e.googlevideo.com^
+||r3---sn-uv2oxu-3c2l.googlevideo.com^
+||r5---sn-2uja-pncr.googlevideo.com^
+||r7---sn-8pxuuxa-2m0z.googlevideo.com^
+||r9---sn-i5h7ln7r.googlevideo.com^
+==============================
 ||r1---sn-5.googlevideo.com^
 ||r2---sn-5.googlevideo.com^
 ||r3---sn-5.googlevideo.com^
