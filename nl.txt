@@ -1,8 +1,8 @@
-||gvt1.com^
-||gvt2.com^
-||gvt3.com^
-||gvt4.com^
-||gvt5.com^
+|gvt1.com^
+|gvt2.com^
+|gvt3.com^
+|gvt4.com^
+|gvt5.com^
 ===========
 ||rr1---sn-qpbpjxa-j0ge.googlevideo.com^
 ||r1---sn-gwpa-jj0z.googlevideo.com^
