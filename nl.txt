@@ -1,7 +1,9 @@
-||ads.nephax.net^
-||s.nephax.net^
-||m.nephax.net^
-||s1.nephax.net^
+! --- gvt.com
+||beacons*.gvt1.com^
+||beacons*.gvt2.com^
+||beacons*.gvt3.com^
+||beacons*.gvt4.com^
+||beacons*.gvt5.com^
 =========================================
 ||rr1---sn-qpbpjxa-j0ge.googlevideo.com^
 ||r1---sn-gwpa-jj0z.googlevideo.com^
