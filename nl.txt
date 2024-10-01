@@ -1,3 +1,4 @@
+# ads.youtube.com
 ||gvt1.com^
 ||gvt2.com^
 ||gvt3.com^
@@ -1110,3 +1111,10 @@ https://youtu.be/4M2e5zz8gY8?si=lsvpkPC7QMd8dqrr
 https://youtu.be/4M2e5zz8gY8?si=lsvpkPC7QMd8dqrr&t=1
 ||lh6.googleusercontent.com/proxy/mXLiEst27z5rSEd34k6GD94L4ZI--QIrYeDzs5QhCxFScbGqGzHih47VIxNijHZkqMaWJkigbWISEA5B9c9YA9Ch7NjUFCpR3dMyfOL5hekpYxXulogayKZv2DbZfw9MMfw^
 ||s0.2mdn.net/ads^
+||r*.googlevideo.com^
+||sn-*.googlevideo.com^
+||kevintimmerdaytrading.nl^$third-party
+||711.nl^$third-party
+||711.nl^$third-party
+||711.nl/ads^
+||ads.711.nl^
