@@ -1118,3 +1118,5 @@ https://youtu.be/4M2e5zz8gY8?si=lsvpkPC7QMd8dqrr&t=1
 ||711.nl^$third-party
 ||711.nl/ads^
 ||ads.711.nl^
+||mykreativemind.com^$third-party
+||ads.mykreativemind.com^
