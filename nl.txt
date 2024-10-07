@@ -1392,4 +1392,3 @@ rr.*.googlevideo.com/api/v
 ||advertisingcrews.com.om^$third-party
 ||advertisingcrews.com.pa^$third-party
 ||advertisingcrews.com.pe^$third-party
-||advertisingcre
