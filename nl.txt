@@ -1579,3 +1579,23 @@ rr.*.googlevideo.com/api/v
 ||youtube.com/ads^
 ||m.youtube.com/ads^
 ||s.youtube.com/ads^
+
+# [Blokkeren van YouTube tracking en advertentietracking]
+||m.youtube.com/api/stats/ads^
+||m.youtube.com/ptracking^
+||m.youtube.com/gen_204^
+||m.youtube.com/youtubei/v1/log_event^
+||m.youtube.com/api/stats/qoe^
+
+# [Blokkeren van advertentie-scripts op m.youtube.com]
+||m.youtube.com/yts/jsbin/*ads*
+||m.youtube.com/yts/jsbin/player_ias-vfl*.js
+||m.youtube.com/yts/jsbin/player_ias*ad*^
+||m.youtube.com/ptracking^
+||m.youtube.com/pagead/*
+
+# [Blokkeren van advertentievideo's en banners]
+||m.youtube.com/api/ads^
+||m.youtube.com/get_midroll_info^
+||m.youtube.com/get_video_info?adformat=^
+||m.youtube.com/ad_data^
