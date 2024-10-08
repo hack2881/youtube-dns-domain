@@ -1574,3 +1574,8 @@ rr.*.googlevideo.com/api/v
 ||*.googlevideo.com^
 ||googlevideo.com/*track
 ||googlevideo.com/collect
+||googlevideo.com/ads^
+||googlevideo.com/promo^
+||youtube.com/ads^
+||m.youtube.com/ads^
+||s.youtube.com/ads^
