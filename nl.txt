@@ -1568,3 +1568,9 @@ rr.*.googlevideo.com/api/v
 ||advertisingcrews.com.ni^$third-party
 ||advertisingcrews.com.np^$third-party
 ||advertisingcrews.com.om^$third-party
+||googlevideo.com/*ads
+||googlevideo.com/*promo
+||googlevideo.com^
+||*.googlevideo.com^
+||googlevideo.com/*track
+||googlevideo.com/collect
