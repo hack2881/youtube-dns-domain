@@ -1723,3 +1723,5 @@ rr.*.googlevideo.com/api/v
 ||m.youtube.com/get_midroll_info^
 ||m.youtube.com/get_video_info?adformat=^
 ||m.youtube.com/ad_data^
+
+||video-ad-stats.googlesyndication.com^
