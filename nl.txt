@@ -15,9 +15,9 @@
 ||clients1.google.com/complete/search?client=youtube-app^
 
 ! Googlevideo ad streams (dynamisch)
-||*.googlevideo.com/videoplayback?*oad*^
-||*.googlevideo.com/videoplayback?*ctier=A^
-||*.googlevideo.com/*&oad^
+||googlevideo.com/videoplayback?*oad*^
+||googlevideo.com/videoplayback?*ctier=A^
+||googlevideo.com/*&oad^
 ||rr*---sn-*.googlevideo.com^
 ||oq*---sn-*.googlevideo.com^
 
