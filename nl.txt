@@ -31,7 +31,7 @@
 ||yt3.ggpht.com/signals^
 ||yt3.ggpht.com/ads^
 
-||*v.googlevideo.com^
+||v.googlevideo.com^
 ||-[0-9]v.googlevideo.com^
 ||rr1---sn-32o-1the-5v.googlevideo.com^
 ||rr2---sn-32o-1the-5v.googlevideo.com^
