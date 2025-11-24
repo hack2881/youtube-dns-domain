@@ -20,12 +20,15 @@
 ||googlevideo.com/*&oad^
 ||rr*---sn-*.googlevideo.com^
 ||oq*---sn-*.googlevideo.com^
+||r*.sn-*.googlevideo.com^
+||redirector.googlevideo.com^
 
 ! App-advertentie laden (Android + Smart TV)
 ||youtubei.googleapis.com/youtubei/v1/ad*
 ||youtubei.googleapis.com/youtubei/v1/player?adformat=*
 ||youtubei.googleapis.com/youtubei/v1/next?adformat=*
 ||youtubei.googleapis.com/youtubei/v1/guide?ad*
+||youtube-ads.google.com^
 
 ! YouTube "ad signals" 
 ||yt3.ggpht.com/signals^
@@ -38,3 +41,6 @@
 ||rr3---sn-32o-1the-5v.googlevideo.com^
 ||rr4---sn-32o-1the-5v.googlevideo.com^
 ||rr5---sn-32o-1the-5v.googlevideo.com^
+
+||pagead2.googlesyndication.com^
+||pagead46.googlesyndication.com^
