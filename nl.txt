@@ -47,6 +47,8 @@
 ||pagead46.googlesyndication.com^
 
 ||2mdn.net^
+||s0.2mdn.net^
+||gcdn.2mdn.net^
 ||firebase.com^
 ||firebaseio.com^
 ||admob.com^
