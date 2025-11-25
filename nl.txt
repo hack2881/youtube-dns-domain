@@ -45,6 +45,7 @@
 
 ||pagead2.googlesyndication.com^
 ||pagead46.googlesyndication.com^
+||tpc.googlesyndication.com^
 
 ||2mdn.net^
 ||s0.2mdn.net^
